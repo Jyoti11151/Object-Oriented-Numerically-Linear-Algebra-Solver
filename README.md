@@ -1,4 +1,4 @@
-# Object-Oriented-Numerically-Linear-Algebra-Solver
+# Object-Oriented-Numerical-Linear-Algebra-Solver
 
 This project implements a comprehensive object-oriented linear algebra solver using Python, integrating principles of numerical computation with modular software design. Nine core algorithms — including matrix norms, decompositions (LU, QR, SVD), least- squares systems, and iterative solvers (Jacobi, Gauss-Seidel, Conjugate Gradient) — are structured into independent classes following the SOLID principles. The objective is to demonstrate that numerical linear algebra code can be written in a reusable, extensible, and maintainable form while ensuring correctness and numerical stability. This solver can serve as a foundation for larger computational science projects.
 The main goals were:
